@@ -1,0 +1,26 @@
+{
+  "ping": "@everyone",
+  "max_pages": 8,
+  "keywords": [
+    "Poings Fluides",
+    "ME07",
+    "Règne Delta",
+    "ME06",
+    "30e Anniversaire",
+    "30 ans",
+    "30th",
+    "Ultra-Premium",
+    "Ultra Premium",
+    "Mentali",
+    "Noctali",
+    "Mewtwo"
+  ],
+  "exclude": [
+    "carte à l'unité",
+    "sleeve",
+    "protège-cartes"
+  ],
+  "shopify_stores": [
+    { "name": "LorenZone", "url": "https://lorenzone.fr" }
+  ]
+}
